@@ -34,6 +34,12 @@ An Arabic conversational-commerce system that guides customers through product d
 
 **Built with:** n8n · OpenAI · WhatsApp · WooCommerce · JavaScript · Telegram
 
+### [AI Content Automation for E-commerce](https://github.com/Badrna3om/ai-content-automation-for-e-commerce)
+
+A two-path content-production system that generates Arabic SEO articles and multi-channel product marketing content, creates WordPress drafts for human review, and coordinates work through Google Sheets and Telegram.
+
+**Built with:** n8n · OpenAI · Google Sheets · WooCommerce · WordPress · Pexels · Telegram
+
 ## Core Stack
 
 <p>
