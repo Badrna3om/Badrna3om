@@ -40,6 +40,12 @@ A two-path content-production system that generates Arabic SEO articles and mult
 
 **Built with:** n8n · OpenAI · Google Sheets · WooCommerce · WordPress · Pexels · Telegram
 
+### [AI Football Intelligence Engine](https://github.com/Badrna3om/ai-football-intelligence-engine)
+
+An evidence-first football intelligence workflow that resolves fixtures, retrieves verified match data, disambiguates players by ID, evaluates data quality, and generates structured post-match content for articles, social threads, short-form video, and tactical visuals.
+
+**Built with:** n8n · API-Football · OpenAI · JavaScript · Structured JSON
+
 ## Core Stack
 
 <p>
