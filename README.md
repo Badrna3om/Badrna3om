@@ -23,7 +23,7 @@ I design, deploy, and operate **live AI-powered business systems** that connect 
 
 ## Featured Production System
 
-### 🎬 [TACTIC & AMER — AI Media Production Platform](case-studies/tactic-ai-media-platform/README.md) · **LIVE PRODUCTION**
+### 🎬 [TACTIC & AMER — AI Media Production Platform](https://github.com/Badrna3om/tactic-ai-media-platform) · **LIVE PRODUCTION**
 
 A proprietary, production-grade AI media operation spanning **live match intelligence, AI newsroom, editorial stories, branded graphics, motion/video preparation, human review, and social publishing**. Built and operated with interconnected workflows, databases, APIs, and containerized media services.
 
@@ -33,7 +33,7 @@ A proprietary, production-grade AI media operation spanning **live match intelli
 
 *Static operational snapshot as of 23 Nov 2026. These are record counts, not views, unique posts, or a claimed time-savings percentage.*
 
-**[Explore the public case study](case-studies/tactic-ai-media-platform/README.md)** · **[See published TACTIC examples](https://x.com/TacticSpoort)** · **[AMER on Snapchat](https://www.snapchat.com/@amer.aaa)**
+**[Explore the public case study](https://github.com/Badrna3om/tactic-ai-media-platform)** · **[See published TACTIC examples](https://x.com/TacticSpoort)** · **[AMER on Snapchat](https://www.snapchat.com/@amer.aaa)**
 
 **Engineering themes:** reliable event processing · multi-agent content pipelines · human-in-the-loop approvals · media asset orchestration · fault recovery · responsible production operations.
 
