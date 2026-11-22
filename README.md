@@ -2,9 +2,9 @@
 
 # Hi, I'm Badreldin Mohamed Awad 👋
 
-### AI Automation Engineer · n8n Workflow Architect · Applied AI Systems Builder
+### AI Automation & Production Systems Engineer · n8n Workflow Architect · Applied AI Builder
 
-I build practical AI agents and automated business systems that connect conversations, data, APIs, and operational teams.
+I design, deploy, and operate **live AI-powered business systems** that connect data, agents, APIs, editorial decisions, human review, and operational teams.
 
 📍 Al Ain, UAE · 📧 [badrna3om@gmail.com](mailto:badrna3om@gmail.com)
 
@@ -14,13 +14,32 @@ I build practical AI agents and automated business systems that connect conversa
 
 ## What I Do
 
+- Architect and operate production multi-pipeline AI automation systems
 - Design AI agents and multi-step n8n workflows
 - Automate customer service, sales, ordering, and reporting
 - Integrate WhatsApp, WooCommerce, Supabase, REST APIs, and webhooks
 - Build operational dashboards and database-backed business workflows
 - Translate business problems into deployable automation systems
 
-## Featured Projects
+## Featured Production System
+
+### 🎬 [TACTIC & AMER — AI Media Production Platform](case-studies/tactic-ai-media-platform/README.md) · **LIVE PRODUCTION**
+
+A proprietary, production-grade AI media operation spanning **live match intelligence, AI newsroom, editorial stories, branded graphics, motion/video preparation, human review, and social publishing**. Built and operated with interconnected workflows, databases, APIs, and containerized media services.
+
+| **3,091** rendered jobs | **837** published queue records | **3,517** indexed source videos |
+| :--: | :--: | :--: |
+| Recorded production output | Recorded publishing workflow | Source-media intelligence |
+
+*Static operational snapshot as of 23 Nov 2026. These are record counts, not views, unique posts, or a claimed time-savings percentage.*
+
+**[Explore the public case study](case-studies/tactic-ai-media-platform/README.md)** · **[See published TACTIC examples](https://x.com/TacticSpoort)** · **[AMER on Snapchat](https://www.snapchat.com/@amer.aaa)**
+
+**Engineering themes:** reliable event processing · multi-agent content pipelines · human-in-the-loop approvals · media asset orchestration · fault recovery · responsible production operations.
+
+> Production workflows, keys, internal services and proprietary business logic are intentionally not public. The case study contains public-output references and sanitized architectural documentation.
+
+## Other Featured Projects
 
 ### [AI Restaurant Operating System](https://github.com/Badrna3om/ai-restaurant-operating-system)
 
@@ -73,7 +92,7 @@ API and database integration
 Testing, security, and deployment
 ```
 
-My current focus is building reliable AI automation for commerce, hospitality, and operational teams—systems that reduce manual work while keeping business rules and human handover clear.
+My current focus is **production AI systems** for media, commerce, hospitality, and operational teams—turning complex business processes into dependable workflows with clear controls, monitoring, and human oversight.
 
 ---
 
