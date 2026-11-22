@@ -38,7 +38,7 @@ A production AI platform I designed and operate. It monitors sports events and n
 
 **Tech:** n8n · Supabase/PostgreSQL · LLM APIs · JavaScript · REST/webhooks · Telegram · media rendering services.
 
-**[Explore flagship case study →](https://github.com/Badrna3om/tactic-ai-media-platform)** | [Published TACTIC work](https://x.com/TacticSpoort) | [AMER on Snapchat](https://www.snapchat.com/@amer.aaa)
+**[Explore flagship case study →](https://github.com/Badrna3om/tactic-ai-media-platform)** | [90-second recruiter tour](https://github.com/Badrna3om/tactic-ai-media-platform/blob/main/docs/RECRUITER_TOUR.md) | [Published TACTIC work](https://x.com/TacticSpoort) | [AMER on Snapchat](https://www.snapchat.com/@amer.aaa)
 
 ---
 
