@@ -1,103 +1,125 @@
 <div align="center">
 
-# Hi, I'm Badreldin Mohamed Awad 👋
+![Badreldin Mohamed Awad — Production AI Systems Engineer](assets/profile-banner.svg)
 
-### AI Automation & Production Systems Engineer · n8n Workflow Architect · Applied AI Builder
+### AI Automation Engineer · Production Systems Architect · Applied AI Builder
 
-I design, deploy, and operate **live AI-powered business systems** that connect data, agents, APIs, editorial decisions, human review, and operational teams.
+**I turn complex business processes into operating AI systems — with real integrations, state management, human oversight and measurable execution.**
 
-📍 Al Ain, UAE · 📧 [badrna3om@gmail.com](mailto:badrna3om@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Flagship-TACTIC%20%26%20AMER-1d6b70?style=flat-square)](https://github.com/Badrna3om/tactic-ai-media-platform)
+[![Location](https://img.shields.io/badge/Available-UAE%20%26%20Remote-394c6b?style=flat-square)](mailto:badrna3om@gmail.com)
+[![Contact](https://img.shields.io/badge/Contact-Email-5b4a6d?style=flat-square)](mailto:badrna3om@gmail.com)
 
 </div>
 
 ---
 
-## What I Do
+## Featured production platform
 
-- Architect and operate production multi-pipeline AI automation systems
-- Design AI agents and multi-step n8n workflows
-- Automate customer service, sales, ordering, and reporting
-- Integrate WhatsApp, WooCommerce, Supabase, REST APIs, and webhooks
-- Build operational dashboards and database-backed business workflows
-- Translate business problems into deployable automation systems
+### [TACTIC × AMER — AI Media Production Platform](https://github.com/Badrna3om/tactic-ai-media-platform) · **Live, multi-service operation**
 
-## Featured Production System
+A production AI platform I designed and operate. It monitors sports events and news, evaluates content relevance, generates multiple branded media formats, coordinates reviews and corrections, and handles publishing or video delivery through separate tracked pipelines.
 
-### 🎬 [TACTIC & AMER — AI Media Production Platform](https://github.com/Badrna3om/tactic-ai-media-platform) · **LIVE PRODUCTION**
+<div align="center">
 
-A proprietary, production-grade AI media operation spanning **live match intelligence, AI newsroom, editorial stories, branded graphics, motion/video preparation, human review, and social publishing**. Built and operated with interconnected workflows, databases, APIs, and containerized media services.
+[![15-second visual tour of actual published TACTIC formats](https://raw.githubusercontent.com/Badrna3om/tactic-ai-media-platform/main/assets/production-reel.webp)](https://github.com/Badrna3om/tactic-ai-media-platform)
 
-| **3,091** rendered jobs | **837** published queue records | **3,517** indexed source videos |
+<sub>Animated preview of six actual, published TACTIC graphic formats — not a simulated live dashboard.</sub>
+
+</div>
+
+| **3,091** | **837** | **3,517** |
 | :--: | :--: | :--: |
-| Recorded production output | Recorded publishing workflow | Source-media intelligence |
+| Rendered content jobs | Records marked published | Indexed source videos |
 
-*Static operational snapshot as of 23 Nov 2026. These are record counts, not views, unique posts, or a claimed time-savings percentage.*
+*Production database snapshot: **23 November 2026**. These are tracked operational records, not audience views or distinct Snapchat posts.*
 
-**[Explore the public case study](https://github.com/Badrna3om/tactic-ai-media-platform)** · **[See published TACTIC examples](https://x.com/TacticSpoort)** · **[AMER on Snapchat](https://www.snapchat.com/@amer.aaa)**
+**Business capability:** end-to-end AI operations, editorial intelligence, reliable work queues, branded media production, human approval, asset management, monitoring and recovery.
 
-**Engineering themes:** reliable event processing · multi-agent content pipelines · human-in-the-loop approvals · media asset orchestration · fault recovery · responsible production operations.
+**Tech:** n8n · Supabase/PostgreSQL · LLM APIs · JavaScript · REST/webhooks · Telegram · media rendering services.
 
-> Production workflows, keys, internal services and proprietary business logic are intentionally not public. The case study contains public-output references and sanitized architectural documentation.
+**[Explore flagship case study →](https://github.com/Badrna3om/tactic-ai-media-platform)** | [Published TACTIC work](https://x.com/TacticSpoort) | [AMER on Snapchat](https://www.snapchat.com/@amer.aaa)
 
-## Other Featured Projects
+---
 
-### [AI Restaurant Operating System](https://github.com/Badrna3om/ai-restaurant-operating-system)
+## Other systems I've built
 
-A working WhatsApp-based restaurant automation prototype covering the customer and staff journey—from natural-language ordering and confirmation to kitchen routing, waiter requests, billing, dashboards, and operational reporting.
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Badrna3om/buaskoor-ai-commerce-platform">AI Commerce · BUASKOOR</a></h3>
+<strong>Conversational commerce &amp; WooCommerce operations</strong>
+<p>Arabic AI sales assistance, product discovery, persistent cart context, order validation, customer handover and commerce notifications.</p>
+<small>n8n · WhatsApp · WooCommerce · JavaScript · REST APIs</small><br/>
+<a href="https://github.com/Badrna3om/buaskoor-ai-commerce-platform">View the sanitized public portfolio →</a>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Badrna3om/ai-restaurant-operating-system">Restaurant AI Operating System</a></h3>
+<strong>AI-assisted guest-to-kitchen workflow</strong>
+<p>Conversational ordering, customer sessions, kitchen and waiter handoff, billing status, dashboards and operational reporting.</p>
+<small>n8n · WhatsApp · Supabase · JavaScript · AI models</small><br/>
+<a href="https://github.com/Badrna3om/ai-restaurant-operating-system">Explore the public implementation →</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Badrna3om/ai-content-automation-for-e-commerce">E-commerce Content Automation</a></h3>
+<strong>Arabic SEO &amp; marketing production</strong>
+<p>Content planning, product enrichment, AI writing, WordPress draft creation, social copy and editorial notifications.</p>
+<small>n8n · OpenAI · WordPress · WooCommerce · Google Sheets</small><br/>
+<a href="https://github.com/Badrna3om/ai-content-automation-for-e-commerce">View the workflow case study →</a>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Badrna3om/ai-football-intelligence-engine">AI Football Intelligence Engine</a></h3>
+<strong>Verified-data reasoning prototype</strong>
+<p>Fixture resolution, structured sports analysis, player identity matching, evidence checks and multi-format structured output.</p>
+<small>n8n · API-Football · OpenAI · JavaScript</small><br/>
+<a href="https://github.com/Badrna3om/ai-football-intelligence-engine">Explore the standalone prototype →</a>
+</td>
+</tr>
+</table>
 
-**Built with:** n8n · LLMs · Kapso WhatsApp API · Supabase · JavaScript · Netlify
+*The public repositories contain selected source examples, sanitized workflow exports, or case studies. They are **not** complete copies of the related private operating systems. Project status is described in each repository.*
 
-### [Buaskoor AI Commerce Platform](https://github.com/Badrna3om/buaskoor-ai-commerce-platform)
+## My engineering approach
 
-An Arabic conversational-commerce system that guides customers through product discovery, cart building, delivery rules, order confirmation, WooCommerce order creation, and operations notifications.
-
-**Built with:** n8n · OpenAI · WhatsApp · WooCommerce · JavaScript · Telegram
-
-### [AI Content Automation for E-commerce](https://github.com/Badrna3om/ai-content-automation-for-e-commerce)
-
-A two-path content-production system that generates Arabic SEO articles and multi-channel product marketing content, creates WordPress drafts for human review, and coordinates work through Google Sheets and Telegram.
-
-**Built with:** n8n · OpenAI · Google Sheets · WooCommerce · WordPress · Pexels · Telegram
-
-### [AI Football Intelligence Engine](https://github.com/Badrna3om/ai-football-intelligence-engine)
-
-An evidence-first football intelligence workflow that resolves fixtures, retrieves verified match data, disambiguates players by ID, evaluates data quality, and generates structured post-match content for articles, social threads, short-form video, and tactical visuals.
-
-**Built with:** n8n · API-Football · OpenAI · JavaScript · Structured JSON
-
-## Core Stack
-
-<p>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" alt="WooCommerce">
-  <img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp API">
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square" alt="REST APIs">
-</p>
-
-## Engineering Focus
-
-```text
-Business problem
-      ↓
-Process and data mapping
-      ↓
-Workflow and AI architecture
-      ↓
-API and database integration
-      ↓
-Testing, security, and deployment
+```mermaid
+flowchart LR
+    A["Discover the business process"] --> B["Map data & integrations"]
+    B --> C["Design AI + deterministic rules"]
+    C --> D["Implement stateful automation"]
+    D --> E["Review, monitor & recover"]
+    E --> F["Operate & improve"]
 ```
 
-My current focus is **production AI systems** for media, commerce, hospitality, and operational teams—turning complex business processes into dependable workflows with clear controls, monitoring, and human oversight.
+| What teams need | What I engineer |
+| :-- | :-- |
+| Fewer disconnected steps | End-to-end API and workflow integration |
+| Predictable AI behavior | Guardrails, structured outputs and business rules |
+| Human accountability | Approval gates, escalation and audit trails |
+| Operational resilience | Idempotency, retries, monitoring and failure handling |
+| Scale beyond a proof of concept | Persistent state, modular services and production pipelines |
+
+## Technology toolkit
+
+**AI & automation:** n8n · LLM agents · OpenAI-compatible APIs · prompt/workflow orchestration
+
+**Backend & data:** Supabase · PostgreSQL · REST APIs · Webhooks · JavaScript · JSON
+
+**Business integrations:** WooCommerce · WordPress · WhatsApp APIs · Telegram · Google Workspace
+
+**Delivery & operations:** Docker-based services · state machines · operational dashboards · human-in-the-loop review
+
+**Background:** Electronics Engineering, with postgraduate study in Networking and Communications.
 
 ---
 
 <div align="center">
 
-Open to AI Automation, n8n, Applied AI, and Digital Transformation opportunities in the UAE and remote.
+### Looking for an AI Automation / Integration Engineer?
+
+I can discuss how these production patterns translate into customer operations, commerce, hospitality, media and internal business workflows.
+
+**[Get in touch](mailto:badrna3om@gmail.com)** · **[Explore my flagship system](https://github.com/Badrna3om/tactic-ai-media-platform)**
 
 </div>
