@@ -35,6 +35,16 @@
 
 The streams have different readiness and publishing rules. **A produced asset is not automatically a published social post.**
 
+## Visual examples from live production
+
+The images below are **already-published TACTIC outputs**, linked to their corresponding public X posts. They are hotlinked from the existing public output files; **no original photos or footage are redistributed in this repository**.
+
+| Starting XI | Match statistics | Player of the match | News |
+| :--: | :--: | :--: | :--: |
+| [![Starting XI](https://drive.google.com/uc?export=download&id=1cXmNIcl63RyKoag1abtiyejXM2gh_dY4)](https://x.com/TacticSpoort/status/2124483139678384632) | [![Match statistics](https://drive.google.com/uc?export=download&id=1hHiFyyMNAkxr2HrJKKTA0-efH-2DQM2m)](https://x.com/TacticSpoort/status/2124525366769234248) | [![Player of the match](https://drive.google.com/uc?export=download&id=1LM1UW7o9xjhwMNvxtwK045NRa4cLc1OB)](https://x.com/TacticSpoort/status/2124530161156510070) | [![News graphic](https://drive.google.com/uc?export=download&id=19zYsex5oeFhL2Q02mLWvmKlwLrbTtS0H)](https://x.com/TacticSpoort/status/2124535428401266694) |
+
+*If external image previews are blocked by GitHub or Google Drive, follow the linked X posts to view the originals.*
+
 ## Selected real-world outputs
 
 These are links to **published TACTIC posts**, not mockups:
