@@ -2,7 +2,7 @@
 
 ![Badreldin Mohamed Awad — Production AI Systems Engineer](assets/profile-banner.svg)
 
-### AI Automation Engineer · Production Systems Architect · Applied AI Builder
+### AI Automation & Production Systems Engineer | n8n, Applied AI, APIs & Business Integrations
 
 **I turn complex business processes into operating AI systems — with real integrations, state management, human oversight and measurable execution.**
 
